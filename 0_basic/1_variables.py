@@ -9,8 +9,8 @@ print(y)
 print(a)
 
 # Assigning the String
-name = 'Madurai'
-print(name)
+place = 'Madurai'
+print(place)
 
 # Printing multiple values
-print(x, y, a, name)
+print(x, y, a, place)
