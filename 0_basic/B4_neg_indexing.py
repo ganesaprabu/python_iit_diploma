@@ -11,6 +11,7 @@ print()
 # it will not throw error from 0 to 9
 
 #Negative indexing
+#Here -1 print the last char, -2 prints the second from the last
 print('#Negative indexing')
 print(place[-1])
 print(place[-2])
