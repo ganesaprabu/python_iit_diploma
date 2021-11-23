@@ -11,6 +11,6 @@ b = int(value[3])
 print('No type conversion happened, it will be string concatenation-> ', a+b)
 print()
 
-# Slicing of Str
+# Slicing of Str  [Similar to Sub string in Java]
 slicedValue = value[2:5]
 print('sliced Value', slicedValue)
