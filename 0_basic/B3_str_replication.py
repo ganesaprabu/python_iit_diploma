@@ -1,6 +1,7 @@
 # String replication
 name = 'Game'
-print(name * 5)
+print(name * 5) 
+print(name[0] * 5)
 
 
 # String comparison
