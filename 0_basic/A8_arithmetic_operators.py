@@ -1,5 +1,5 @@
 # +, -, *, /, //, **
-
+# it follows BODMAS
 print('Addition', (5+7))
 
 print('Subraction', (7-5))
