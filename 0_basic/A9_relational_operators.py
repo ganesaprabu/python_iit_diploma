@@ -1,4 +1,4 @@
-# Relational (<, >, <=, >=, !=, ==)
+# Relational operators (<, >, <=, >=, !=, ==)
 
 print(4 < 7)
 
