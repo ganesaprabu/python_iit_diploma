@@ -13,3 +13,5 @@ print(b)
 
 print()
 
+print(a, b)
+
