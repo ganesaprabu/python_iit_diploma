@@ -4,6 +4,7 @@ print(y)
 print(z)
 
 print()
+#One Value to Multiple Variables
 x = y = z = "Orange"
 print(x)
 print(y)
