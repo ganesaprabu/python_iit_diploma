@@ -4,7 +4,7 @@ def my_function():
 
 my_function();
 
-
+# Parameterized
 def my_function_year(year):
   print("Happy new year", year)
 
