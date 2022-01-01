@@ -1,3 +1,4 @@
+# Simple
 def my_function():
   print("Happy new year")
 
