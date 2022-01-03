@@ -20,6 +20,7 @@ def my_function(*team):
 my_function("Jill", "Jam", "Sweety")
 
 # Default value function
+# If caller doesn't provide the value, default will work
 def my_default_fun(city = "Chennai"):
   print("I am from " + city)
 my_default_fun("Madurai")
