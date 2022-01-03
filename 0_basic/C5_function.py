@@ -19,6 +19,7 @@ def my_function(*team):
   print("One of the team member is  " + team[2])
 my_function("Jill", "Jam", "Sweety")
 
+# Default value function
 def my_default_fun(city = "Chennai"):
   print("I am from " + city)
 my_default_fun("Madurai")
