@@ -15,10 +15,13 @@ def my_function_welcome_msg(name, salutation):
 my_function_welcome_msg("John", "Mr.");
 
 # Arbitrary Arguments, *args
+# 
 def my_function_args(*team):
   print("One of the team member is  " + team[1])
 my_function_args("Jill", "Jam", "Sweety")
-my_function_args()
+# If it is empty args, then it will throw error
+#my_function_args() 
+
 
 # Default value function
 # If caller doesn't provide the value, default will work
