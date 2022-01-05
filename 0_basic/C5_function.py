@@ -15,7 +15,6 @@ def my_function_welcome_msg(name, salutation):
 my_function_welcome_msg("John", "Mr.");
 
 # Arbitrary Arguments, *args
-# 
 def my_function_args(*team):
   print("One of the team member is  " + team[1])
 my_function_args("Jill", "Jam", "Sweety")
