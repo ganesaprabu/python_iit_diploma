@@ -18,7 +18,7 @@ my_function_welcome_msg("John", "Mr.");
 def my_function_args(*team):
   print("One of the team member is  " + team[1])
 my_function_args("Jill", "Jam", "Sweety")
-# If it is empty args, then it will throw error for out of index excsption
+# If it is empty args, then it will throw error for out of index exception
 #my_function_args() 
 
 
