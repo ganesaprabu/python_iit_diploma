@@ -11,5 +11,6 @@ print('As Float -> ', x)
 # string
 x = str('name')
 print('As string -> ', x)
+# Added list
 x = [10, 12, 67]
 print('As list -> ', x)
