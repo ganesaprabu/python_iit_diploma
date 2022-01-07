@@ -8,6 +8,7 @@ print('As Int -> ', x)
 # float
 x = float(4.7)
 print('As Float -> ', x)
+# string
 x = str('name')
 print('As string -> ', x)
 x = [10, 12, 67]
