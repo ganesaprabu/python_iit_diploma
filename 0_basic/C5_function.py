@@ -28,3 +28,11 @@ def my_default_fun(city = "Chennai"):
   print("I am from " + city)
 my_default_fun("Madurai")
 my_default_fun()
+
+
+
+def my_fun_getting_list(food):
+  for x in food:
+    print(x)
+fruits = ["apple", "banana", "cherry"]
+my_fun_getting_list(fruits)
