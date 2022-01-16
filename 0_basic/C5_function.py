@@ -30,7 +30,7 @@ my_default_fun("Madurai")
 my_default_fun()
 
 
-# Passing the list of values to a function and we can iterate through that the list given
+# Passing the list of values to a function and we can iterate through that the list given through parameter
 def my_fun_getting_list(food):
   for x in food:
     print(x)
