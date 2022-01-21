@@ -6,7 +6,7 @@ y = int('4')
 print(y)
 
 print()
-print('# String conversion')
+print('# String conversion samples')
 # String conversion
 age = str(7)
 print(age)
