@@ -14,7 +14,7 @@ a = x + y
 print(a)
 print()
 
-# in String, + means concatenation
+# in String, + means concatenation and not addition
 print('# in String, + means concatenation')
 name = 'Steve'
 place = 'California'
