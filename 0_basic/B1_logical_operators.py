@@ -1,3 +1,5 @@
+# Logical operations
+
 # Logical operator AND
 print('# Logical operator AND [TRUE if all are true]')
 print(True and True)
