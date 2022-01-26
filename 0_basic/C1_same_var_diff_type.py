@@ -2,7 +2,7 @@
 
 # But in Python, same variable holds different data types like the below like int, float, string and list
 
-# int
+# int (casting to INT)
 x = int(4)
 print('As Int -> ', x)
 # float
