@@ -6,5 +6,6 @@ print("Hello world !!!")
 print(10)
 print(10.89)
 
+# Changes added
 # We can print multiple in the same print
 print('String #1', 'String #2', 'String #3', 100)
