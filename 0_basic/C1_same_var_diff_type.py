@@ -11,6 +11,6 @@ print('As Float -> ', x)
 # string
 x = str('name')
 print('As string -> ', x)
-# Added list
+# Convert as list of comma seperated values
 x = [10, 12, 67]
 print('As list -> ', x)
