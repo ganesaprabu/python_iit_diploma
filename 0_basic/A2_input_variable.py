@@ -9,5 +9,6 @@ place = str(input())
 print('What is your age: ')
 age = int(input())
 
+# Multiple values as the arguments
 print()
 print('Hi', name, '. Good to know that you are from ', place, '. Good to know that you are', age, 'old')
