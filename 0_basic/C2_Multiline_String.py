@@ -14,6 +14,6 @@ print()
 print(b)
 
 print()
-# In will print all the objects which is in the parameters
+# In will print all the objects which is in the parameters passed to print method
 print(a, b)
 
