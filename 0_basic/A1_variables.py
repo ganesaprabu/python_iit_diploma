@@ -1,4 +1,4 @@
-# Assigning the variables
+# Assigning the variables different data type
 
 # Assigning the integer
 x = 5
@@ -16,5 +16,5 @@ print(place)
 print('Here "place" is variable and "Madurai" is literal')
 print()
 
-# Printing multiple values passed through parameters
+# Printing multiple values passed through parameters 
 print(x, y, a, place)
