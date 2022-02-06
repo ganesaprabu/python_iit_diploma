@@ -11,7 +11,7 @@ if "free" in txt:
 
 print()
 
-#Check if NOT
+#Check if NOT CONDITION
 txt = "The best things in life are free!"
 print("expensive" not in txt)
 
