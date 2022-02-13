@@ -26,3 +26,7 @@ flag = bool('')
 print('empty values are False ->', flag)
 
 print()
+
+
+
+print()
