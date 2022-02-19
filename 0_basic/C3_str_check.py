@@ -10,6 +10,7 @@ if "free" in txt:
   print("Yes, 'free' is present.") #Needs an indendation otherwise error. No curly braces as like Java
 
 print()
+print()
 
 #Check if NOT CONDITION
 txt = "The best things in life are free!"
