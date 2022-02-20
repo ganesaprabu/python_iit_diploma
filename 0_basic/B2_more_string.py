@@ -14,3 +14,4 @@ print()
 # Slicing of Str  [Similar to Sub string in Java]
 slicedValue = value[2:5]
 print('sliced Value', slicedValue)
+print()
