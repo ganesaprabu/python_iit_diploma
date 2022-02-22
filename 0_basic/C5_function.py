@@ -36,3 +36,5 @@ def my_fun_getting_list(food):
     print(x)
 fruits = ["apple", "banana", "cherry"]
 my_fun_getting_list(fruits)
+
+print()
