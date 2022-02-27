@@ -21,5 +21,5 @@ print()
 ###### We can print the type of  list class as well
 print("########## Below is the special case ##########")
 print('list is of type ', type(list))
-
+print()
 print()
