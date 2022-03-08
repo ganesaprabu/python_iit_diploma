@@ -25,6 +25,3 @@ list1 = [10, 20.87, 33]
 list2 = [4, 67, 89, 56, 78.89]
 newList = list1 + list2
 print(newList)
-
-print()
-print()
