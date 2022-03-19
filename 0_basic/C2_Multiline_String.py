@@ -16,4 +16,5 @@ print(b)
 print()
 # In will print all the objects which is in the parameters passed to print method as arguments
 print(a, b)
+print()
 
