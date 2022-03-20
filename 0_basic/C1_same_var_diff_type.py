@@ -16,3 +16,4 @@ x = [10, 12, 67]
 print('As list -> ', x)
 
 print()
+print()
