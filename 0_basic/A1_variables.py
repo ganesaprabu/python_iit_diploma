@@ -22,3 +22,4 @@ print()
 print(x, y, a, place)
 
 print()
+print()
