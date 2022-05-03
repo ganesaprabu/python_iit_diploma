@@ -23,3 +23,7 @@ print("########## Below is the special case ##########")
 print('list is of type ', type(list))
 
 print()
+
+print()
+
+print()
