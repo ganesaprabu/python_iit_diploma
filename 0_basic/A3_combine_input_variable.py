@@ -11,4 +11,5 @@ place = input('What is your hometown:')
 print('Hello, ', name)
 print('Good to know that you are ', age, 'years old')
 print(place, 'is such a nice place')
+print()
 
