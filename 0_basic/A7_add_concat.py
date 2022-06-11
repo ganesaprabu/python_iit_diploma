@@ -26,3 +26,4 @@ list2 = [4, 67, 89, 56, 78.89]
 newList = list1 + list2
 print(newList)
 print('Mac machine')
+print()
