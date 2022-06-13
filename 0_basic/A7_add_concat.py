@@ -27,3 +27,4 @@ newList = list1 + list2
 print(newList)
 print('Mac machine')
 print()
+print()
