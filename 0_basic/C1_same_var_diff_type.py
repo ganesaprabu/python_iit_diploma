@@ -14,3 +14,5 @@ print('As string -> ', x)
 # Convert as list of comma seperated values
 x = [10, 12, 67]
 print('As list -> ', x)
+
+print()
