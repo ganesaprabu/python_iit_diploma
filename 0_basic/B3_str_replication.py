@@ -6,3 +6,5 @@ print(name[0] * 5) #GGGGG
 
 
 print()
+
+print()
