@@ -17,20 +17,3 @@ age = str(7.5)
 print(age)
 print('Printing from Mac')
 
-print()
-print()
-
-print()
-
-print()
-
-print()
-
-print()
-
-print()
-
-print()
-
-print()
-
