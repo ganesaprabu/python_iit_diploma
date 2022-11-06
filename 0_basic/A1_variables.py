@@ -20,7 +20,3 @@ print()
 
 # Printing multiple values passed through parameters 
 print(x, y, a, place)
-
-print()
-print()
-print()
