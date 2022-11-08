@@ -1,3 +1,5 @@
+print('Arithmetic operator BODMAS')
+
 # +, -, *, /, //, **
 # it follows BODMAS
 print('Addition', (5+7))
