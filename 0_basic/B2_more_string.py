@@ -15,3 +15,5 @@ print()
 slicedValue = value[2:5]
 print('sliced Value', slicedValue)
 print()
+
+print('This is Naveen demo 3rd')
