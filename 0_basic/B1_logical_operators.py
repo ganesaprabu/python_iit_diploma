@@ -20,3 +20,5 @@ print('# Logical operator NOT [inverse of]')
 # Logical operator OR
 print(not True)
 print(not (True))
+
+print()
