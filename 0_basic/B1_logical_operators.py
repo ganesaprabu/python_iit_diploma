@@ -1,5 +1,5 @@
 # Logical operations
-
+print('Logical operator')
 # Logical operator AND
 print('# Logical operator AND [TRUE if all are true]')
 print(True and True)
@@ -22,3 +22,5 @@ print(not True)
 print(not (True))
 
 print()
+
+
