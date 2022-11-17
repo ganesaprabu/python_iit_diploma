@@ -24,3 +24,5 @@ print(place[-8])
 print(place[-9])
 print(place[-10])
 print()
+
+print('Newc changes')
